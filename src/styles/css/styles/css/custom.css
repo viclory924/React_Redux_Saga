@@ -1,0 +1,14 @@
+.login_fail {
+  color: red;
+  margin-top: -40px; }
+
+.onboarding_fail {
+  color: red;
+  text-align: center;
+  margin-top: -25px; }
+
+.signup_fail {
+  text-align: center;
+  color: red;
+  margin-bottom: 0px;
+  margin-top: -10px; }
