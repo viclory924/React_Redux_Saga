@@ -20,7 +20,7 @@
     "react-select-search": "^0.9.6",
     "react-switch": "^5.0.0",
     "react-tooltip": "^3.10.0",
-    "recharts": "^1.6.2",
+    "recharts": "^2.1.14",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-saga": "^1.0.3"
